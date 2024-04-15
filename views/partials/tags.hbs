@@ -1,0 +1,12 @@
+<div class="tags">
+    <p>Discover more what matters to you</p>
+    <div class="tags-btn-area">
+        {{#each tagData as |tag|}}
+            <a href="">
+                <button class="tag-btn">
+                    {{tag.value.displayTitle}}
+                </button>
+            </a>  
+        {{/each}}
+    </div>
+</div>

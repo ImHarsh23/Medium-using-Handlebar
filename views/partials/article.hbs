@@ -1,0 +1,46 @@
+<div class="container">
+    <div class="article-area">
+        <div class="posts">
+            {{#each posts as |post|}}
+            <div class="article-post">
+                <div class="trending-post"> 
+                    <div class="user-info">
+                        <a href="">
+                            <div class="user-pic">
+                                <img width="25" src="https://miro.medium.com/v2/resize:fit:1000/{{post.post.collection.avatar.id}}" alt="">
+                            </div>
+                        </a>
+                        <a href="">
+                            <div class="user-company">{{post.post.creator.name}}</div>
+                        </a>
+                    </div>
+
+                    <a href={{post.post.mediumUrl   }}>
+                        <div class="article-post-heading">
+                            <p>
+                                {{post.post.title}}
+                            </p>    
+                        </div>
+                        <p>{{post.post.previewContent.subtitle}}</p>
+                    </a>
+
+                    <div class="trending-post-date">
+                        {{post.post.firstPublishedAt}} • {{post.post.readingTime}} min read
+                    </div>
+                </div>
+                <div class="article-image-container">
+                    <img height="200px" src="https://miro.medium.com/v2/resize:fit/{{post.post.previewImage.id}}" alt="">
+                </div>
+            </div>
+            {{/each}}
+
+            {{!--Button For Load More Content --}}
+            <div class="load-more-container">
+                <a href="/add">
+                    <button class="load-more">Load more...</button>
+                </a>
+            </div>
+        </div>
+        {{> tags}}
+    </div>
+</div>

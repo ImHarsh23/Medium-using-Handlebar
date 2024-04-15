@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medium clone</title>
+    {{!-- <link rel="stylesheet" href="Style.css"> --}}
+    {{> style}}
+</head>
+<body>
+    <header class="section">
+        {{> navbar}}
+    </header>
+
+    <main>
+        {{!-- Intro-section --}}
+        <section class="intro">
+            {{> intro}}
+        </section>
+
+        {{!-- Trending-section --}}
+        <section class="trending">
+            {{> trending}}
+        </section>
+
+        {{!-- Article-section --}}
+        <section class="article">
+            {{> article tagData = tagData posts = posts}}
+        </section>
+
+    </main>
+</body>
+</html>

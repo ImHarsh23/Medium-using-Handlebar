@@ -1,0 +1,56 @@
+[
+    {
+        "id":"1",
+        "title":"Chronon, Airbnb’s ML Feature Platform, Is Now Open Source",
+        "user":"Varant Zanoyan",
+        "postingDate":"Apr 8, 2024",
+        "readTime":"9",
+        "image":"https://miro.medium.com/v2/resize:fill:176:176/1*1sAQ7B60OfXlv9FbJaBB_g.jpeg"
+    },
+
+    {
+        "id":"2",
+        "title":"The Complexity of Choice: Abortion, Motherhood, and the Adoption Conversation",
+        "user":"RICHELLE CAREY",
+        "postingDate":"Apr 10, 2024",
+        "readTime":"3",
+        "image":"https://cdn.iconscout.com/icon/free/png-512/free-node-7-226041.png?f=webp&w=256"
+    },
+
+    {
+        "id":"3",
+        "title":"Removing the M from MVVM with SwiftUI",
+        "user":"Thomas Ricouard in Stackademic",
+        "postingDate":"Apr 8, 2024",
+        "readTime":"5",
+        "image":"https://d3sxshmncs10te.cloudfront.net/icon/premium/png-256/1474843.png?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzIwODE4MSwicSI6bnVsbCwiaWF0IjoxNzEyOTQ4OTgxfQ__.a7c9aa17689fdb83893a36115055d27344aa7da7b2c15d4d495dc38f706d2ac6"
+    },
+
+    {
+        "id":"4",
+        "title":"Bluey’s latest episode ‘Ghost Basket’ is a bittersweet ending to early childhood parenting",
+        "user":"Lisa Birch",
+        "postingDate":"Apr 7, 2024",
+        "readTime":"7",
+        "image":"https://d3sxshmncs10te.cloudfront.net/icon/premium/png-256/1474850.png?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzIwODE4MSwicSI6bnVsbCwiaWF0IjoxNzEyOTQ4OTgxfQ__.931c674889a76914eb809e82febcd20aa8f7dd24022cd8cfce2b821ec1ea9913"
+    },
+
+    {
+        "id":"5",
+        "title":"The Math Behind Convolutional Neural Networks",
+        "user":"Cristian Leo",
+        "postingDate":"Apr 9, 2024",
+        "readTime":"26",
+        "image":"https://d3sxshmncs10te.cloudfront.net/icon/premium/png-256/1474849.png?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzIwODE4MSwicSI6bnVsbCwiaWF0IjoxNzEyOTQ4OTgxfQ__.1f840262ee187c70e1218bfc92d8fb3248e8e49694722f15d2fd7b897885dec0"
+    },
+
+    {
+        "id":"6",
+        "title":"Psychologic Hunger is all too Real",
+        "user":"Dr. Jason Fung",
+        "postingDate":"Apr 10, 2024",
+        "readTime":"8",
+        "image":"https://d3sxshmncs10te.cloudfront.net/icon/premium/svg/1474842.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMzIwODE4MSwicSI6bnVsbCwiaWF0IjoxNzEyOTQ4OTgxfQ__.04f18fbb66e6dc7cf275204f40573d5b093b11f470cb99304addd17583703eb4"
+    }
+
+]

@@ -1,0 +1,56 @@
+{
+    "Tag:programming": {
+        "__typename": "Tag",
+        "id": "programming",
+        "displayTitle": "Programming",
+        "normalizedTagSlug": "programming"
+    },
+    "Tag:data-science": {
+            "__typename": "Tag",
+            "id": "data-science",
+            "displayTitle": "Data Science",
+            "normalizedTagSlug": "data-science"
+    },
+    "Tag:technology": {
+            "__typename": "Tag",
+            "id": "technology",
+            "displayTitle": "Technology",
+            "normalizedTagSlug": "technology"
+    },
+    "Tag:self-improvement": {
+            "__typename": "Tag",
+            "id": "self-improvement",
+            "displayTitle": "Self Improvement",
+            "normalizedTagSlug": "self-improvement"
+    },
+    "Tag:writing": {
+            "__typename": "Tag",
+            "id": "writing",
+            "displayTitle": "Writing",
+            "normalizedTagSlug": "writing"
+    },
+    "Tag:relationships": {
+            "__typename": "Tag",
+            "id": "relationships",
+            "displayTitle": "Relationships",
+            "normalizedTagSlug": "relationships"
+    },
+    "Tag:machine-learning": {
+            "__typename": "Tag",
+            "id": "machine-learning",
+            "displayTitle": "Machine Learning",
+            "normalizedTagSlug": "machine-learning"
+    },
+    "Tag:productivity": {
+            "__typename": "Tag",
+            "id": "productivity",
+            "displayTitle": "Productivity",
+            "normalizedTagSlug": "productivity"
+    },
+    "Tag:politics": {
+            "__typename": "Tag",
+            "id": "politics",
+            "displayTitle": "Politics",
+            "normalizedTagSlug": "politics"
+    }
+}

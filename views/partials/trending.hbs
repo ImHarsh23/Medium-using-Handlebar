@@ -1,0 +1,42 @@
+<div class="container">
+    <div class="trending-heading">
+        <div class="trending-logo">
+            <img src="https://cdn.iconscout.com/icon/free/png-512/free-trending-up-success-stock-increase-30568.png?f=webp&w=20" alt="">
+        </div>
+        <p class="trending-heading-text">Trending on Medium</p>
+    </div>
+    
+    <div class="trending-content">
+        
+        {{#each data as |d|}}
+        
+            <div class="treding-content-parent">
+                <div class="trending-serial-number">0{{d.id}}</div>
+                
+                <div class="trending-post">
+                    <div class="user-info">
+                        <a href="">
+                            <div class="user-pic">
+                                <img width="23" src={{d.image}} alt="">
+                            </div>
+                        </a>
+                        <a href="">
+                            <div class="user-company">{{d.user}}</div>
+                        </a>
+                    </div>
+
+                    <a href="">
+                        <div class="trending-post-heading">
+                        {{d.title}}  
+                    </div>
+                    </a>
+
+                    <div class="trending-post-date">
+                        {{d.postingDate}} • {{d.readTime}} min read
+                    </div>
+                </div>
+            </div>
+
+        {{/each}}
+    </div> 
+</div>
